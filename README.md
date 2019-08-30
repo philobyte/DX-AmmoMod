@@ -7,7 +7,7 @@ For me, this is the biggest and, in terms of gameplay, the only annoyance in thi
 
 Since nothing in this game is really abundant, you may not even notice the changes.
 
-I did this entirely for my own private use, but I kept coming across postings in forums and on portals which seem to indicate a certain demand. So be my guest ;)
+I made these modifications entirely for my own private use, but I kept coming across postings in forums and on portals which seem to indicate a certain demand. So be my guest ;)
 
 
 ## Installation
