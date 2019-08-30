@@ -16,9 +16,9 @@ You will need a largely unmodded vanilla GOTY version of the game (**v1.112fm**)
 
 - Download the **"DeusEx.u"** file from the *System* folder in the above repository, or use [this direct link](https://github.com/philobyte/DX-AmmoMod/raw/master/System/DeusEx.u).
 
-- Go to the *..\System* subfolder of your Deus Ex installation and rename the file `DeusEx.u` to `DeusEx.u.old`.
+- Go to the *..\System* subfolder of your Deus Ex installation and rename the file **`DeusEx.u`** to **`DeusEx.u.old`**.
 
-- Then copy over the "DeusEx.u" file downloaded from here. 
+- Then copy over the **"DeusEx.u"** file downloaded from here. 
 
 
-To uninstall, delete the "DeusEx.u" file and rename its backup copy back to "DeusEx.u".
+To uninstall, delete the **"DeusEx.u"** file and rename its backup copy ("DeusEx.u.old") back to **"DeusEx.u"**.
