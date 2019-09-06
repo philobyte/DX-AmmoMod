@@ -3,7 +3,7 @@ Mod for ***Deus Ex GOTY*** - removes ammo carry limits
 
 Smashing crates and picking up supplies is, in a manner of speaking, the only reward you get in the fabulous **"Deus Ex GOTY"** for all the hard and dangerous work you do while trying to save the world from the grips of a sinister power. Having to leave many of these goodies behind just because you've already reached your carry limit is an extremely frustrating experience, especially when considering that you will most likely be in dire need of the exact same supplies some ten or fifteen minutes later on. 
 
-For me, this is the biggest and, in terms of gameplay, the only annoyance in this great classic gem. Hence I created a mod which simply lets you pick up all the ammo you come across. While at it, I also removed the austere limits for lockpicks, medkits, biocells and multitools.
+For me, that is the biggest and, in terms of gameplay, the only annoyance in this great classic gem. Hence I created a mod which simply lets you pick up all the ammo you come across. While at it, I also removed the austere limits for lockpicks, medkits, biocells and multitools.
 
 Since nothing in this game is really abundant, you may not even notice the changes.
 
