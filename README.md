@@ -12,7 +12,7 @@ I made these modifications entirely for my own private use, but I kept coming ac
 
 ## Installation
 
-You will need a largely unmodded vanilla **GOTY** version of the game (**v1.112fm**). This is to say: I would expect graphical enhancement mods to be fully compatible as long as they don't come with their own version of a *"DeusEx.u"* file. But I have not run any tests. In case of doubt, make a backup of your complete *Deus Ex* directory before applying changes.
+You will need a fairly unmodded vanilla **GOTY** version of the game (**v1.112fm**). This is to say: I would expect graphical enhancement mods to be fully compatible as long as they don't come with their own version of a *"DeusEx.u"* file. But I have not run any tests. In case of doubt, make a backup of your complete *Deus Ex* directory before applying changes.
 
 - Download the **"DeusEx.u"** file from the *System* folder in the above repository, or use [this direct link](https://github.com/philobyte/DX-AmmoMod/raw/master/System/DeusEx.u).
 
